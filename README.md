@@ -15,6 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Contact Me ![Custom badge](https://img.shields.io/badge/Status-Active-brightgreen)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12.4-blue)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7.10-green)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![Django](https://img.shields.io/badge/Django-3.2-blue)
+![Flask](https://img.shields.io/badge/Flask-2.0-green)
+![Hive](https://img.shields.io/badge/Hive-3.1-blue)
+![Ansible](https://img.shields.io/badge/Ansible-2.9-yellow)
+![MQTT](https://img.shields.io/badge/MQTT-3.1.1-lightgrey)
+![Jenkins](https://img.shields.io/badge/Jenkins-2.263-blue)
+![Redis](https://img.shields.io/badge/Redis-6.2-red)
+![Celery](https://img.shields.io/badge/Celery-5.0-blue)
+
 
 
 If you'd like to reach out, feel free to send me an email at [ninoshvelidze78@gmail.com](mailto:yourname@gmail.com).
