@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ## Contact Me
 
 If you'd like to reach out, feel free to send me an email at [ninoshvelidze78@gmail.com](mailto:yourname@gmail.com).
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
