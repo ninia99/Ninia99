@@ -1,4 +1,4 @@
-##![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) The Way!
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) The Way!
 
 <!--
 **ninia99/Ninia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
