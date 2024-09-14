@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) The Way!
+ The ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) Way!
 
 <!--
 **ninia99/Ninia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Here are some of the technologies and tools I work with:
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Python](https://img.shields.io/badge/Python-blue)
 ![Angular](https://img.shields.io/badge/Angular-13.0-red)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-lightgrey)
 ![MongoDB](https://img.shields.io/badge/MongoDB-5.0-blue)
