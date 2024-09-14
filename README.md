@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 If you'd like to reach out, feel free to send me an email at [ninoshvelidze78@gmail.com](mailto:yourname@gmail.com).
 
-```markdown
+
 ```mermaid
 gantt
     title Gantt Diagram
