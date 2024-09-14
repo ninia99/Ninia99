@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Contact Me ![Custom badge](https://img.shields.io/badge/Status-Active-brightgreen)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12.4-blue)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7.10-green)
+# Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Angular](https://img.shields.io/badge/Angular-13.0-red)
+![C++](https://img.shields.io/badge/C%2B%2B-17-lightgrey)
+![MongoDB](https://img.shields.io/badge/MongoDB-5.0-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14.0-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![Django](https://img.shields.io/badge/Django-3.2-blue)
@@ -28,6 +35,8 @@ Here are some ideas to get you started:
 ![Jenkins](https://img.shields.io/badge/Jenkins-2.263-blue)
 ![Redis](https://img.shields.io/badge/Redis-6.2-red)
 ![Celery](https://img.shields.io/badge/Celery-5.0-blue)
+![Jira](https://img.shields.io/badge/Jira-Active-blue)
+![Confluence](https://img.shields.io/badge/Confluence-Active-blue)
 
 
 
