@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 
 If you'd like to reach out, feel free to send me an email at [ninoshvelidze78@gmail.com](mailto:yourname@gmail.com).
 
+```markdown
+ # My Work Day Journey
+
+This is a journey diagram representing a typical work day for me, including work and going home. Below are the steps visualized:
 
 ```mermaid
 journey
-    My working day
-    From Monday to Friday
+    title My working day
     section Go to work
       Make tea: 5: Me
       Go upstairs: 3: Me
@@ -31,4 +34,6 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
+
+
 
