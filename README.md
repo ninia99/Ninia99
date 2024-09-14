@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 
 If you'd like to reach out, feel free to send me an email at [ninoshvelidze78@gmail.com](mailto:yourname@gmail.com).
 
+mermaid
 gantt
+    title Gantt Diagram
+    dateFormat  YYYY-MM-DD
     section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
+    Completed    :done,    des1, 2014-01-06, 2014-01-08
+    Active       :active,  des2, 2014-01-07, 3d
     Parallel 1   :         des3, after des1, 1d
     Parallel 2   :         des4, after des1, 1d
     Parallel 3   :         des5, after des3, 1d
