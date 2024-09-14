@@ -22,7 +22,8 @@ If you'd like to reach out, feel free to send me an email at [ninoshvelidze78@gm
 
 ```mermaid
 journey
-    My working day From Monday to Friday
+    My working day
+    From Monday to Friday
     section Go to work
       Make tea: 5: Me
       Go upstairs: 3: Me
