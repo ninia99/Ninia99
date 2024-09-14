@@ -24,13 +24,13 @@ If you'd like to reach out, feel free to send me an email at [ninoshvelidze78@gm
 ```mermaid
 journey
     title My working day
-    section Go to work
-      Make tea: 5: Me
-      Go upstairs: 3: Me
-      Do work: 1: Me, Cat
-    section Go home
-      Go downstairs: 5: Me
-      Sit down: 5: Me
+    section WORK
+      focuse time: 9: Me
+      Lunch period: 8: Me
+      finalize tasks: 7: Me, Weekend
+    section Plans
+      attend conferences: 9: Me
+      learn New Technology: 8: Me
 
 
 
