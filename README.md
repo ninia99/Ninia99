@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Contact Me ![Custom badge](https://img.shields.io/badge/Status-Active-brightgreen)
-# Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
