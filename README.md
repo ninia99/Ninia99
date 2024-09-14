@@ -34,8 +34,8 @@ Here are some of the technologies and tools I work with:
 ![Jenkins](https://img.shields.io/badge/Jenkins-blue)
 ![Redis](https://img.shields.io/badge/Redis-red)
 ![Celery](https://img.shields.io/badge/Celery-blue)
-![Jira](https://img.shields.io/badge/Jira-Active-blue)
-![Confluence](https://img.shields.io/badge/Confluence-Active-blue)
+![Jira](https://img.shields.io/badge/Jira-blue)
+![Confluence](https://img.shields.io/badge/Confluence-blue)
 ![KNIME](https://img.shields.io/badge/KNIME-blue)
 ![Oracle](https://img.shields.io/badge/Oracle-Expert-blue)
 
