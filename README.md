@@ -28,6 +28,8 @@ Here are some of the technologies and tools I work with:
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![Django](https://img.shields.io/badge/Django-blue)
 ![Flask](https://img.shields.io/badge/Flask-green)
+![Asyncio](https://img.shields.io/badge/Asyncio-Expert-blue)
+![REST API](https://img.shields.io/badge/REST_API-Expert-blue)
 ![Hive](https://img.shields.io/badge/Hive-blue)
 ![Ansible](https://img.shields.io/badge/Ansible-yellow)
 ![MQTT](https://img.shields.io/badge/MQTT-lightgrey)
@@ -40,7 +42,7 @@ Here are some of the technologies and tools I work with:
 ![Oracle](https://img.shields.io/badge/Oracle-Expert-blue)
 
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/GHrhjnTZUikfQqpLoUJLcX@or4CdLRbgivVXCMYDB3GNEExLK2bhzzQqua4uUp8w"></iframe>
+
 If you'd like to reach out, feel free to send me an email at [ninoshvelidze78@gmail.com](mailto:yourname@gmail.com).
 
 
